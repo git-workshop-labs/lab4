@@ -1,5 +1,7 @@
 = Rotkäppchen und der Wolf
 
+image::images/title.png[]
+
 == Charaktäre
 
 include::characters/little_red_riding_hood.adoc[leveloffset=2]
