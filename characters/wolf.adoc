@@ -1,0 +1,10 @@
+= Der Wolf
+
+Der Wolf ist eine hinterhältige Kreatur.
+Er lauert im Wald unschuldigen Wesen auf um sie in einen Hinterhalt zu locken und aufzufressen. Rotkäpchen ist für ihn ein solches unschuldiges Wesen.
+
+== Eigenschaften
+
+* Hinterhältig
+* Gierig
+* Gemein
