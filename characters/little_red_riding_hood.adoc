@@ -1,0 +1,12 @@
+= Rotkäppchen
+
+Rotkäppchen ist ein liebes, aber auch naives Mädchen.
+Sie kümmert sich um ihre Großmutter und hört brav auf das, was ihre Mutter sagt.
+
+== Eigenschaften
+
+Rotkäppchen hat folgende Eigenschaften:
+
+* Gutmütig
+* Gutgläubig
+* Fröhlich
