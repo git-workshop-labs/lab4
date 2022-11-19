@@ -1,0 +1,11 @@
+= Der Jäger
+
+Der Jäger ist jeden Tag im Wald unterwegs um Tiere zu jagen.
+Er ist gerne unter Sich und beobachter die Natur.
+Aber wenn eine Mensch in Not ist, hilft er gerne.
+
+== Eigenschaften
+
+* Eigensinnig
+* Aufmerksam
+* Freundlich
